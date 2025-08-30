@@ -1,0 +1,9 @@
+# package-manager
+blender
+lmms
+steam
+gimp
+pcmanfm
+cuda
+# source
+godot

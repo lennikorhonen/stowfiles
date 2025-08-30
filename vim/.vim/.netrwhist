@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/lenni/game-dev/dungeon_puzzler'
+let g:netrw_dirhist_8='/home/lenni/coding/sdl_game/key_presses'
+let g:netrw_dirhist_7='/home/lenni'
+let g:netrw_dirhist_6='/home/lenni/coding/kata-machine/src/day1'
+let g:netrw_dirhist_5='/home/lenni/coding/kata-machine/src'
+let g:netrw_dirhist_4='/home/lenni/coding/kata-machine'
+let g:netrw_dirhist_3='/home/lenni/coding/kata-machine/scripts'
+let g:netrw_dirhist_2='/home/lenni/coding/kata-machine'
+let g:netrw_dirhist_1='/home/lenni'
