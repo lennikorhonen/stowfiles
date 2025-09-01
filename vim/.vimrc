@@ -31,6 +31,7 @@ set mouse=a
 "
 " " Enable auto-indentation
 set autoindent
+set nowrap
 
 set nocompatible
 
